@@ -16100,3 +16100,5 @@ wysihtml.views.Textarea = wysihtml.views.View.extend(
     }
   });
 })(wysihtml);
+
+module.exports = wysihtml;
